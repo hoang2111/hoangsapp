@@ -1,7 +1,7 @@
 package com.github.hoang2111.hoangsapp;
 
 import javafx.application.Application;
-import javafx.geometry.Point2D;
+
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
